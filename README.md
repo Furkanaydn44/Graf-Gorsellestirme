@@ -58,7 +58,6 @@ Belirli bir yazarın işbirliklerini ağırlıklarına göre analiz eder.
 
 
 ### 4. İşbirliği Ağırlık Analizi
-*(Rapor içeriğine göre 2. modül ile benzer mantıkta çalışır)*
 * Girilen ID'nin komşularını ve işbirliği ağırlıklarını analiz ederek listeler ve grafiği günceller.
 
 ### 5. Yazar İşbirliği Sayacı
