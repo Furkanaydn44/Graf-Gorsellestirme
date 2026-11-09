@@ -10,6 +10,15 @@ Proje, yazarları "düğüm" (node), aralarındaki işbirliklerini ise "kenar" (
 
 Bu uygulama, büyük veri setlerini işleyerek tarayıcı tabanlı interaktif bir arayüz sunar. Kullanıcılar, grafik üzerinde gezinerek yazarların işbirliği yoğunluğunu, birbirlerine olan uzaklıklarını ve kümeleşmelerini analiz edebilirler.
 
+## Proje Katılımcıları
+<a href="https://github.com/numankhy28">
+  <img src="https://avatars.githubusercontent.com/u/219421415?v=4" width="128" height="128" alt="numankhy28 GitHub Profile" />
+</a>
+<a href="https://github.com/Furkanaydn44">
+  <img src="https://avatars.githubusercontent.com/u/174454978?v=4" width="128" height="128" alt="Furkanaydn44 GitHub Profile" />
+</a>
+
+
 ### Temel Özellikler
 
 * **Veri İşleme ve Önbellekleme:** Excel formatındaki veriler okunur ve performans için RAM üzerinde önbelleğe (caching) alınır.
